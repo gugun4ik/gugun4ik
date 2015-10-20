@@ -1,0 +1,8 @@
+<VirtualHost *:80>
+  ServerAlias mvc.zz www.mvc.zz
+  DocumentRoot /home/hollow/server/mvc/mvc.zz
+  <Directory home/hollow/server/new/mvc.zz/>
+    AllowOverride All
+    Require all granted
+  </Directory>
+</VirtualHost>
