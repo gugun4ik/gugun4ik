@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Use the front controller as index file. It serves as fallback solution when
 # every other rewrite/redirect fails (e.g. in an aliased environment without
 # mod_rewrite). Additionally, this reduces the matching process for the
@@ -50,3 +51,9 @@ DirectoryIndex index.php
         # RedirectTemp cannot be used instead
     </IfModule>
 </IfModule>
+=======
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php [L]
+>>>>>>> b84f6e15ee70604f245302eb71083521dbf8bc67

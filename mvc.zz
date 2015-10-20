@@ -1,7 +1,12 @@
 <VirtualHost *:80>
   ServerAlias mvc.zz www.mvc.zz
+<<<<<<< HEAD
   DocumentRoot /home/yangol/server/mvc/
   <Directory home/yangol/server/mvc/>
+=======
+  DocumentRoot /home/hollow/server/mvc/mvc.zz
+  <Directory home/hollow/server/new/mvc.zz/>
+>>>>>>> b84f6e15ee70604f245302eb71083521dbf8bc67
     AllowOverride All
     Require all granted
   </Directory>
