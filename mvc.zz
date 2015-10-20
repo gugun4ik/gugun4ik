@@ -1,0 +1,8 @@
+<VirtualHost *:80>
+  ServerAlias mvc.zz www.mvc.zz
+  DocumentRoot /home/yangol/server/mvc/
+  <Directory home/yangol/server/mvc/>
+    AllowOverride All
+    Require all granted
+  </Directory>
+</VirtualHost>
