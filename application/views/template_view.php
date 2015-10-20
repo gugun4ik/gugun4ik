@@ -50,11 +50,7 @@ Modified by VitalySwipe
 						<li class="first active"><a href="/">Главная</a></li>
 						<li><a href="/services">Услуги</a></li>
 						<li><a href="/portfolio">Портфолио</a></li>
-<<<<<<< HEAD
 						<li><a href="/contacts">Контакты</a></li>
-=======
-                                                <li><a href="/contacts">Контакты</a></li>
->>>>>>> b84f6e15ee70604f245302eb71083521dbf8bc67
 						<li class="last"><a href="/command">Комманда</a></li>
 					</ul>
 					<br class="clearfix" />
@@ -89,12 +85,8 @@ Modified by VitalySwipe
 							<li class="first "><a href="/">Главная</a></li>
 							<li><a href="/services">Услуги</a></li>
 							<li><a href="/portfolio">Портфолио</a></li>
-<<<<<<< HEAD
 							<li><a href="/contacts">Контакты</a></li>
 							<li class="last"><a href="/command">Комманда</a></li>
-=======
-							<li class="last"><a href="/contacts">Контакты</a></li>
->>>>>>> b84f6e15ee70604f245302eb71083521dbf8bc67
 						</ul>
 					</div>
 				</div>
@@ -154,8 +146,6 @@ Modified by VitalySwipe
 			<a href="/">ОЛОЛОША TEAM</a> &copy; 2012</a>
 		</div>
 	</body>
-<<<<<<< HEAD
 </html>
-=======
 </html>
->>>>>>> b84f6e15ee70604f245302eb71083521dbf8bc67
+
